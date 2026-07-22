@@ -14,5 +14,6 @@ I'm a beginner AOSP and kernel builder for Android. I build barely with a help o
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🔷 My Favorite Projects
-**[DiamondSU for Oscaro](https://github.com/diathequeen/su_kernel_oneplus_sm6375)** - My kernel for OnePlus Nord CE2 Lite (codenamed "oscaro") that uses KernelSU(and its forks)+SUSFS. 
+**[DiamondSU for Oscaro](https://github.com/diathequeen/su_kernel_oneplus_sm6375)** - My kernel for OnePlus Nord CE2 Lite (codenamed "oscaro") that uses KernelSU(and its forks)+SUSFS.
+
 **[DiamondSU for Taoyao](https://github.com/diathequeen/su_kernel_xiaomi_taoyao.git)** - My kernel for Xiaomi 12 Lite grabbed from https://github.com/skglab-dev/kernel_xiaomi_taoyao. It's incomplete yet developed actively.
