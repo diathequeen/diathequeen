@@ -4,8 +4,8 @@
 
 I'm a beginner AOSP and kernel builder for Android. I build barely with a help of others... Well 'cause I'm just a beginner for now.. if not forever.
 
-📱 Building AOSP projects for devices I own
-🌐 Contributing to open-source projects
+- 📱 Building AOSP projects for devices I own
+- 🌐 Contributing to open-source projects
 
 ## 🛠️ My development vector
 
