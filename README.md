@@ -1,4 +1,4 @@
-# My name is Diamond. But diamondqueen is my underscore. Just like this - @diathequeen
+# My name is Diamond. @diathequeen
 
 ## 💁‍♀️ Wanna know a little bit more than nothing 'bout me?
 
