@@ -17,7 +17,7 @@ I'm a beginner AOSP and kernel builder for Android. I build barely with a help o
 
 **[Android Vendor Tree for Camry](https://github.com/diathequeen/android_vendor_oneplus_camry)** - OnePlus Nord CE4 Lite 5G vendor tree. Nothing too special.
 
-**[TWRP/OrangeFox Device Tree for Camry](https://github.com/diathequeen/android_device_oneplus_camry-orangefox)** - Bootable OrangeFox tree for OnePlus Nord CE4 Lite. The first ever working device tree for this device. W.I.P (two major features needed for a recovery tree are absent somewhy, it's still not perfect yet bootable at least)
+**[TWRP/OrangeFox Device Tree for Camry](https://github.com/diathequeen/android_device_oneplus_camry-orangefox)** - Bootable OrangeFox tree for OnePlus Nord CE4 Lite. The first ever working device tree for this device.
 
 **[OxygenOS Camera device tree](https://github.com/diathequeen/android_device_oneplus_camera)** - OnePlus Camera device tree that generates a vendor/oneplus/camera tree that compiles with your AOSP build. W.I.P (not tested yet)
 
