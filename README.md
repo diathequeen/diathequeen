@@ -1,6 +1,3 @@
-# My name is Diamond.
-I'm a beginner AOSP and kernel builder for Android. I build barely with a help of others... Well 'cause I'm just a beginner for now.. if not forever.🤭
-
 - 📱 I Build AOSP projects for devices I own
 - 🌐 I Contribute to open-source projects
 
