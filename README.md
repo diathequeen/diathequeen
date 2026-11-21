@@ -1,16 +1,18 @@
-- 📱 I Build AOSP projects for devices I own
-- 🌐 I Contribute to open-source projects
+- I Build AOSP projects for devices I own
+- I Contribute to open-source projects
 
-## 🛠️ My development vector
+## my main projects
+**[device tree for camry(my main move rn aka wip)](https://github.com/diathequeen/android_device_oneplus_camry)**
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**[device tree for blair sm6375 (why thrashing main tree when common exists right? ^^)](https://github.com/diathequeen/android_device_oneplus_sm6375-common)**
 
-## 📀 My Main Projects (OnePlus Nord CE4 Lite 5G + Xiaomi 12 Lite)
-**[Android Device Tree for OnePlus Nord CE4 Lite](https://github.com/diathequeen/android_device_oneplus_camry)** - My new phone for maintainership. I maintain it top priority.
+**[hal trees for sm6375 (borrowed from sm8650, subj to change)](https://github.com/diathequeen/android_hardware_qcom-caf_sm6375-blair)**
 
-**[TWRP/OrangeFox Device Tree for OnePlus Nord CE4 Lite](https://github.com/diathequeen/android_device_oneplus_camry-orangefox)** - Bootable OrangeFox tree for OnePlus Nord CE4 Lite. The first ever working device tree for this device.
+**[orangefox recovery tree for camry(the only bootable and working proj for this device EVER](https://github.com/diathequeen/android_device_oneplus_camry-orangefox)**
 
-**[OxygenOS Camera device tree](https://github.com/diathequeen/android_device_oneplus_camry-camera)** - OnePlus Camera device tree that generates a vendor/oneplus/camera tree that compiles with your AOSP build. W.I.P (not tested yet)
+# OnePlus Nord CE4 Lite 5G kernel docs and repos:
+**[common kernel tree (and the main one)](https://github.com/diathequeen/android_kernel_oneplus_sm6375-msm)**
 
-**[AOSPA tree for Xiaomi 12 Lite](https://github.com/diathequeen/aospa_device_xiaomi_taoyao)** - My AOSPA device tree for Xiaomi 12 Lite. It's not buildable. At least for now. W.I.P (freezed for now)
+**[msm kernel tree for building vendor kernel modules(don't use for building bootable kernels)](https://github.com/diathequeen/android_kernel_oneplus_sm6375-msm)**
+
+**[kernel modules tree (you SHOULD use it to build kernel inline ig)](https://github.com/diathequeen/android_kernel_oneplus_sm6375-modules)**
