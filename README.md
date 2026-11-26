@@ -11,8 +11,10 @@
 **[orangefox recovery tree for camry(the only bootable and working proj for this device EVER](https://github.com/diathequeen/android_device_oneplus_camry-orangefox)**
 
 # OnePlus Nord CE4 Lite 5G kernel docs and repos:
-**[common kernel tree (and the main one)](https://github.com/diathequeen/android_kernel_oneplus_sm6375-msm)**
+**[common kernel tree (and the main one)](https://github.com/diathequeen/android_kernel_oneplus_sm6375-common)**
 
-**[msm kernel tree for building vendor kernel modules(don't use for building bootable kernels)](https://github.com/diathequeen/android_kernel_oneplus_sm6375-msm)**
+**[msm kernel tree for building vendor kernel modules](https://github.com/diathequeen/android_kernel_oneplus_sm6375-msm)**
 
-**[kernel modules tree (you SHOULD use it to build kernel inline ig)](https://github.com/diathequeen/android_kernel_oneplus_sm6375-modules)**
+**[kernel modules tree (you MUST use it to build kernel inline ig)](https://github.com/diathequeen/android_kernel_oneplus_sm6375-modules)**
+
+**[kernel devicetrees tree](https://github.com/diathequeen/android_kernel_oneplus_sm6375-devicetrees)**
